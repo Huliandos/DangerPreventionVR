@@ -15,18 +15,42 @@ University project developed together with 5 peers for my international media co
 
 <h2>Collaborators</h2>
 <div class="photos">
-<a href="https://github.com/Sabrows"> 
+<a href="https://github.com/Sabrows" 
+   	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;> 
   <img href="https://avatars.githubusercontent.com/u/32672660?v=4"> 
 </a> 
-<div class="photos">
+<div class="photos" 
+   	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;>
 <a href="https://github.com/konrad-u"> 
   <img href="https://avatars.githubusercontent.com/u/6991272?v=4"> 
 </a> 
-<div class="photos">
+<div class="photos" 
+   	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;>
 <a href="https://github.com/Rein3ke"> 
   <img href="https://avatars.githubusercontent.com/u/22802109?v=4e"> 
 </a> 
-<div class="photos">
+<div class="photos" 
+   	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 200px;
+	overflow: hidden;
+	border-radius: 50%;>
 <a href="https://github.com/Capscreen"> 
   <img href="https://avatars.githubusercontent.com/u/19570629?v=4"> 
 </a> 
