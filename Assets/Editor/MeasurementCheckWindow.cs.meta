@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1d3a83a577daf4616bb81d411b0024a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - cameraTexture: {fileID: 8400000, guid: b8a7b0cbb49b448d9919fb66fb7a2a20, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

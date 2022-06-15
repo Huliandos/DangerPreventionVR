@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Leg
+  - SnapCube
+  - Arm
+  - SnapCylinder
+  - Saucers
+  - ExcludeTeleport
+  - Torso
+  - Head
+  - PlayerHead
+  - PlayerHand
+  - Glasses
+  - Earmuffs
+  - Helmet
+  - Mask
+  - projectile
+  - DangerousOnTouch
+  - DangerousOnUse
+  - DangerousOnGrab
+  - PlayerControler
+  - VRTK_DestinationPoint
+  - Clipboard
+  - DrillPressVise
+  - DrillableObject
+  - Splittable
+  - DrillBit
+  - PlayerController
+  - HandLevelShearsLever
+  - FxTemporaire
+  - TeleportIgnore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RaycastHit
+  - BenchDrillHandling
+  - Gravity
+  - PlayerHands
+  - InteractableObjects
+  - Glasses
+  - Earmuffs
+  - PostProcessing
+  - Helmet
+  - Ground
+  - HideFromVRCamera
+  - MeasurementTool
+  - DrawBloodDecal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

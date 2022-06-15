@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: ddee11b97d0480b4d8a4ec1976ef6f68
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7732257711552061491
+    second: avatar_female_rig|_default
+  - first:
+      74: -7977035101167296960
+    second: avatar_female_rig|f_hand_closed.L
+  - first:
+      74: 1903166988439787774
+    second: avatar_female_rig|f_hand_closed.R
+  - first:
+      74: 3534159192626730612
+    second: avatar_female_rig|f_hand_closed_index.L
+  - first:
+      74: 2571841638436970768
+    second: avatar_female_rig|f_hand_closed_thumb.L
+  - first:
+      74: -3900741930981273829
+    second: avatar_female_rig|m_hand_closed.L
+  - first:
+      74: 1277443186610264166
+    second: avatar_female_rig|m_hand_closed_index.L
+  - first:
+      74: 3606025652676212238
+    second: avatar_female_rig|m_hand_closed_index.R
+  - first:
+      74: -2575735842522072912
+    second: avatar_female_rig|m_hand_closed_middle.L
+  - first:
+      74: 2856818507848207384
+    second: avatar_female_rig|m_hand_closed_middle.R
+  - first:
+      74: -8728642264037034141
+    second: avatar_female_rig|m_hand_closed_pinky.L
+  - first:
+      74: -6820746948800522060
+    second: avatar_female_rig|m_hand_closed_pinky.R
+  - first:
+      74: -9197096546413613586
+    second: avatar_female_rig|m_hand_closed_ring.L
+  - first:
+      74: -4346994606669237219
+    second: avatar_female_rig|m_hand_closed_ring.R
+  - first:
+      74: 4516064554273905533
+    second: avatar_female_rig|m_hand_closed_thumb.L
+  - first:
+      74: 3362304713018893459
+    second: avatar_female_rig|m_hand_closed_thumb.R
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
