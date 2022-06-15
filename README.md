@@ -21,7 +21,7 @@ University project developed together with 5 peers for my international media co
 </a> </br>
 
 <h2>My tasks</h2>
-Mainly focused on... </br>
+Mainly focused on... </br> </br>
 
 <b>Procedural Mesh Splitting:</b>
 <ul>
