@@ -63,11 +63,11 @@ Mainly focused on... </br> </br>
 <li>Cutting and mastering of project videos</li>
 </ul>
 
-<h2>Project websites</h2>
+<h2>Project websites & videos:</h2>
 <a href="https://showtime.f4.htw-berlin.de/ws20/master/m4-gefahr-erkannt-gefahr-gebannt/">Semester 1</a> </br>
 <a href="https://showtime.f4.htw-berlin.de/ss21/master/m7-gefahr-erkannt-gefahr-gebannt-teil-2/">Semester 2</a>
 
-<h2>Ingame controlls</h2>
+<h2>Ingame controlls:</h2>
 
 Press touchpad - start teleport
 
